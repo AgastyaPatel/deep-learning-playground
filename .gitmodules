@@ -1,3 +1,6 @@
 [submodule "nn-zero-to-hero-course"]
 	path = nn-zero-to-hero-course
 	url = https://github.com/AgastyaPatel/nn-zero-to-hero-course
+[submodule "FastAI-course"]
+	path = FastAI-course
+	url = https://github.com/AgastyaPatel/FastAI-course
